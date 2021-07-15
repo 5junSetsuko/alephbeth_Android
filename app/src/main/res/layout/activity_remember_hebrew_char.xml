@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".RememberHebrewChar">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+		<Button
+            android:id="@+id/hebrewChar_1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+        	android:gravity="center"
+            android:text="1" />
+		<Button
+            android:id="@+id/hebrewChar_2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+        	android:gravity="center"
+            android:text="2" />
+		<Button
+            android:id="@+id/hebrewChar_3"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+        	android:gravity="center"
+            android:text="3" />
+		<Button
+            android:id="@+id/hebrewChar_4"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+        	android:gravity="center"
+            android:text="4" />
+		<Button
+            android:id="@+id/hebrewChar_5"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+        	android:gravity="center"
+            android:text="5" />
+		<Button
+            android:id="@+id/hebrewChar_6"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+        	android:gravity="center"
+            android:text="6" />
+		<Button
+            android:id="@+id/hebrewChar_7"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+        	android:gravity="center"
+            android:text="7" />
+		<Button
+            android:id="@+id/hebrewChar_8"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+        	android:gravity="center"
+            android:text="8" />
+		<Button
+            android:id="@+id/hebrewChar_9"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+        	android:gravity="center"
+            android:text="9" />
+		<Button
+            android:id="@+id/hebrewChar_10"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+        	android:gravity="center"
+            android:text="10" />
+		<Button
+            android:id="@+id/hebrewChar_11"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+        	android:gravity="center"
+            android:text="11" />
+		<Button
+            android:id="@+id/hebrewChar_12"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+        	android:gravity="center"
+            android:text="12" />
+		<Button
+            android:id="@+id/hebrewChar_13"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+        	android:gravity="center"
+            android:text="13" />
+		<Button
+            android:id="@+id/hebrewChar_14"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+        	android:gravity="center"
+            android:text="14" />
+		<Button
+            android:id="@+id/hebrewChar_15"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+        	android:gravity="center"
+            android:text="15" />
+		<Button
+            android:id="@+id/hebrewChar_16"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+        	android:gravity="center"
+            android:text="16" />
+		<Button
+            android:id="@+id/hebrewChar_17"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+        	android:gravity="center"
+            android:text="17" />
+		<Button
+            android:id="@+id/hebrewChar_18"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+        	android:gravity="center"
+            android:text="18" />
+		<Button
+            android:id="@+id/hebrewChar_19"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+        	android:gravity="center"
+            android:text="19" />
+		<Button
+            android:id="@+id/hebrewChar_20"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+        	android:gravity="center"
+            android:text="20" />
+		<Button
+            android:id="@+id/hebrewChar_21"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+        	android:gravity="center"
+            android:text="21" />
+		<Button
+            android:id="@+id/hebrewChar_22"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+        	android:gravity="center"
+            android:text="22" />
+		<Button
+            android:id="@+id/hebrewChar_23"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+        	android:gravity="center"
+            android:text="23" />
+		<Button
+            android:id="@+id/hebrewChar_24"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+        	android:gravity="center"
+            android:text="24" />
+		<Button
+            android:id="@+id/hebrewChar_25"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+        	android:gravity="center"
+            android:text="25" />
+		<Button
+            android:id="@+id/hebrewChar_26"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+        	android:gravity="center"
+            android:text="26" />
+		<Button
+            android:id="@+id/hebrewChar_27"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+        	android:gravity="center"
+            android:text="27" />
+		<Button
+            android:id="@+id/hebrewChar_28"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+        	android:gravity="center"
+            android:text="28" />
+		<Button
+            android:id="@+id/hebrewChar_29"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+        	android:gravity="center"
+            android:text="29" />
+		<Button
+            android:id="@+id/hebrewChar_30"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+        	android:gravity="center"
+            android:text="30" />
+		<Button
+            android:id="@+id/hebrewChar_31"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+        	android:gravity="center"
+            android:text="31" />
+		<Button
+            android:id="@+id/hebrewChar_32"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+        	android:gravity="center"
+            android:text="32" />
+		<Button
+            android:id="@+id/hebrewChar_33"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+        	android:gravity="center"
+            android:text="33" />
+		<Button
+            android:id="@+id/hebrewChar_34"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+        	android:gravity="center"
+            android:text="34" />
+		<Button
+            android:id="@+id/hebrewChar_35"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+        	android:gravity="center"
+            android:text="35" />
+		<Button
+            android:id="@+id/hebrewChar_36"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+        	android:gravity="center"
+            android:text="36" />
+		<Button
+            android:id="@+id/hebrewChar_37"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+        	android:gravity="center"
+            android:text="37" />
+		<Button
+            android:id="@+id/hebrewChar_38"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+        	android:gravity="center"
+            android:text="38" />
+		<Button
+            android:id="@+id/hebrewChar_39"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+        	android:gravity="center"
+            android:text="39" />
+		<Button
+            android:id="@+id/hebrewChar_40"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+        	android:gravity="center"
+            android:text="40" />
+		<Button
+            android:id="@+id/hebrewChar_41"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+        	android:gravity="center"
+            android:text="41" />
+		<Button
+            android:id="@+id/hebrewChar_42"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+        	android:gravity="center"
+            android:text="42" />
+		<Button
+            android:id="@+id/hebrewChar_43"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+        	android:gravity="center"
+            android:text="43" />
+		<Button
+            android:id="@+id/hebrewChar_44"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+        	android:gravity="center"
+            android:text="44" />
+		<Button
+            android:id="@+id/hebrewChar_45"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+        	android:gravity="center"
+            android:text="45" />
+		<Button
+            android:id="@+id/hebrewChar_46"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+        	android:gravity="center"
+            android:text="46" />
+		<Button
+            android:id="@+id/hebrewChar_47"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+        	android:gravity="center"
+            android:text="47" />
+		<Button
+            android:id="@+id/hebrewChar_48"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+        	android:gravity="center"
+            android:text="48" />
+		<Button
+            android:id="@+id/hebrewChar_49"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+        	android:gravity="center"
+            android:text="49" />
+		<Button
+            android:id="@+id/hebrewChar_50"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+        	android:gravity="center"
+            android:text="50" />
+        <com.example.alephbeth_android.CustomListView
+            android:id="@+id/list_view"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            app:layout_constraintLeft_toLeftOf="parent"
+            app:layout_constraintRight_toRightOf="parent" />
+    </LinearLayout>
+</ScrollView>
